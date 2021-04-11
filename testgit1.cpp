@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int i;
-    printf("%s 向你问好!\n", "linux_vcc1");
+    printf("%s 向你问好! ###\n", "linux_vcc1");
     printtest();
     cin >> i;
     return 0;
